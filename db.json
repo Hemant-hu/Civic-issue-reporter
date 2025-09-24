@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "public_user",
+      "role": "public",
+      "email": "user@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "admin_user",
+      "role": "admin",
+      "email": "hemantlad48@gmail.com",
+      "password": "Hemant@555"
+    },
+    {
+      "id": "3",
+      "username": "jane_doe",
+      "role": "public",
+      "email": "jane@example.com",
+      "password": "password456"
+    }
+  ],
+  "issues": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "Large Pothole on Main Street",
+      "description": "A deep and dangerous pothole is located near the crosswalk at 123 Main St. It has already caused a flat tire.",
+      "category": "Roads",
+      "status": "Resolved",
+      "location": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      },
+      "reportedAt": "2025-09-07T10:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1594168297979-9a6157147817?q=80&w=2070"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "title": "Broken Streetlight at Oak & Pine",
+      "description": "The streetlight on the corner of Oak Avenue and Pine Lane is completely out. It's very dark and feels unsafe at night.",
+      "category": "Streetlights",
+      "status": "Resolved",
+      "location": {
+        "lat": 18.5215,
+        "lng": 73.8589
+      },
+      "reportedAt": "2025-09-06T22:30:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1620510432854-52a5f7839353?q=80&w=2070"
+    },
+    {
+      "id": "6b4e",
+      "title": "pathhole",
+      "description": "nbksbkfgh",
+      "category": "Roads",
+      "location": {
+        "lat": 56.5,
+        "lng": 55.26
+      },
+      "status": "Resolved",
+      "reportedAt": "2025-09-08T13:08:02.795Z",
+      "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=New+Issue"
+    },
+    {
+      "id": "a796",
+      "title": "road pathholes",
+      "description": "road is well damaged",
+      "category": "Roads",
+      "location": {
+        "lat": 21.093315,
+        "lng": 78.978809
+      },
+      "status": "Reported",
+      "reportedAt": "2025-09-12T13:29:32.112Z",
+      "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=New+Issue"
+    },
+    {
+      "id": "6da9",
+      "title": "streetlight",
+      "description": "streetlight is not working",
+      "category": "Roads",
+      "location": {
+        "lat": 21.093315,
+        "lng": 78.9788089
+      },
+      "status": "In Progress",
+      "reportedAt": "2025-09-13T04:45:16.548Z",
+      "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=New+Issue"
+    },
+    {
+      "id": "01a7",
+      "title": "pathholes ",
+      "description": "break",
+      "category": "Roads",
+      "location": {
+        "lat": 18.524609,
+        "lng": 73.878624
+      },
+      "status": "In Progress",
+      "reportedAt": "2025-09-13T09:03:03.917Z",
+      "userId": "1",
+      "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=New+Issue"
+    },
+    {
+      "id": "67eb",
+      "title": "Direction board",
+      "description": "Direction board is broken",
+      "category": "Roads",
+      "location": {
+        "lat": 21.141448,
+        "lng": 79.082484
+      },
+      "status": "In Progress",
+      "reportedAt": "2025-09-15T16:17:02.681Z",
+      "userId": "1",
+      "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=New+Issue"
+    },
+    {
+      "id": "734b",
+      "title": "broken road",
+      "description": "the highway road is damaaged",
+      "category": "Roads",
+      "location": {
+        "lat": 18.524609,
+        "lng": 73.878624
+      },
+      "status": "Resolved",
+      "reportedAt": "2025-09-16T16:49:04.367Z",
+      "userId": "1",
+      "imageUrl": "https://picsum.photos/600/400?0.8998105167889728"
+    }
+  ]
+}
